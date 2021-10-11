@@ -16,7 +16,7 @@ The package has been tested with the following dependencies:
 To install GoSDK dependency, the following steps are required: 
 
 1. With a Serial Number of a device, register as a customer at the [LMI website](http://downloads.lmi3d.com/)
-2. Download the SDK from the [LMI website](http://downloads.lmi3d.com/) (file 14400-4.2.5.17_SOFTWARE_GO_SDK.zip)
+2. Download the SDK from the [LMI website](http://downloads.lmi3d.com/) (file 14400-6.1.20.8_SOFTWARE_GO_SDK.zip)
 3. Uncompress GoSDK
 4. Build GoSDK
 ```shell 
