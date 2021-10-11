@@ -7,10 +7,10 @@ This repository holds code of a [ROS](http://www.ros.org) package for point clou
 
 ### Dependencies
 The package has been tested with the following dependencies:
-* Ubuntu 14.04
+* Ubuntu 16.04
 * CMake + gcc
-* [ROS Indigo](http://wiki.ros.org/indigo/Installation/Ubuntu)
-* [Point Cloud Library v1.7](http://www.pointclouds.org/) (shipped with ROS Indigo)
+* [ROS Kinetic](http://wiki.ros.org/indigo/Installation/Ubuntu)
+* [Point Cloud Library v1.8](http://www.pointclouds.org/) (shipped with ROS Kinetic)
 * GoSDK library (propietary library from manufacturer LMI Technologies)
 
 To install GoSDK dependency, the following steps are required: 
